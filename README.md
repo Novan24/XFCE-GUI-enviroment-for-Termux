@@ -18,3 +18,8 @@ Or to make it easier to use the Termux application so that it is more efficient
 <br>
 
 # Instalations
+
+<p>First you need to install <li href="https:">Termux</li> And <li href="https:">VNC Viewer</li> </p>
+
+
+
