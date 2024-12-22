@@ -17,9 +17,9 @@ Or to make it easier to use the Termux application so that it is more efficient
 * Minium ram 3GB
 <br>
 
-# Instalations
+# Installation
 
-<p>First you need to install <li href="https:">Termux</li> And <li href="https:">VNC Viewer</li> </p>
+<p>First you need to Download and install <a href="https:">Termux</a> And <a href="https:">VNC Viewer</a> </p>
 
 
 
