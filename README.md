@@ -1,6 +1,8 @@
 # XFCE Enviroment at Termux
 Give your termux enviroment GUI
 
+[![Donasi di Trakteer](https://img.shields.io/badge/contact-green?style=flat)](085735101561)
+
 ![Platform](https://img.shields.io/badge/Platform-Termux-blue?style=flat)
 [![Donasi di Trakteer](https://img.shields.io/badge/$-Donate-red?style=flat)](https://trakteer.id/novan245)
 
