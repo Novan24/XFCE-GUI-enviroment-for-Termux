@@ -21,28 +21,40 @@ Or to make it easier to use the Termux application so that it is more efficient
 
 <p>First you need to Download and install <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a> And <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC Viewer</a> </p>
 
-And then eun this command on termux on by one :
+And then use this command on termux one by one :
+<br>
+1. 
 ```bash
 pkg update pkg upgrade
 pkg install x11-repo
 ```
-Install XFCE and VNC Server
+
+2. Install XFCE and VNC Server
 ```bash
 pkg install xfce4 tigervnc
 ```
-Configure VNC server
+3. Configure VNC server
 set the password and port
+(You need to remember password and port that you configure for Rvnc app)
 ```bash
 vncserver
 ```
-Use nano to modify xstartup to make xfce started on the first run
+4. Use nano to modify xstartup to make xfce started on the first run
 ```bash
 nano ~/.vnc/startup
 ```
-then do this
+5. then copy and paste like this
 ```bash
-
+xrdb $HOME/.Xrecources
+startxfce4 &
 ```
+[![Example](https://i.postimg.cc/BnK1YWF0/IMG-20241222-194444.jpg)](https://postimg.cc/nXnzrPTR)
 
-
-
+6. Start vncserver
+```bash
+vncserver :1
+```
+and don't forget to turn off the server just like you turn off your pc
+```bash
+vncserver -kill :1
+```
