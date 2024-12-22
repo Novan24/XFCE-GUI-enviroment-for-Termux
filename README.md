@@ -45,7 +45,7 @@ nano ~/.vnc/startup
 ```
 5. then copy and paste like this
 ```bash
-xrdb $HOME/.Xrecources
+xrdb $HOME/.Xresources
 startxfce4 &
 ```
 [![Example](https://i.postimg.cc/BnK1YWF0/IMG-20241222-194444.jpg)](https://postimg.cc/nXnzrPTR)
