@@ -49,7 +49,8 @@ xrdb $HOME/.Xrecources
 startxfce4 &
 ```
 [![Example](https://i.postimg.cc/BnK1YWF0/IMG-20241222-194444.jpg)](https://postimg.cc/nXnzrPTR)
-the CTRL+X > Y > Enter
+then CTRL+X > Y > Enter
+<br>
 6. Start vncserver
 ```bash
 vncserver :1
