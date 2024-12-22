@@ -34,8 +34,7 @@ pkg install x11-repo
 pkg install xfce4 tigervnc
 ```
 3. Configure VNC server
-set the password and port
-(You need to remember password and port that you configure for Rvnc app)
+set the password, and follow the instruction
 ```bash
 vncserver
 ```
@@ -55,6 +54,8 @@ then CTRL+X > Y > Enter
 ```bash
 vncserver :1
 ```
+
+7. Open RVNC server app > click + Enter localhost:5907 > 
 and don't forget to turn off the server just like you turn off your pc
 ```bash
 vncserver -kill :1
