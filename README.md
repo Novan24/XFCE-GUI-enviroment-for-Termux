@@ -21,5 +21,28 @@ Or to make it easier to use the Termux application so that it is more efficient
 
 <p>First you need to Download and install <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a> And <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC Viewer</a> </p>
 
+And then eun this command on termux on by one :
+```bash
+pkg update pkg upgrade
+pkg install x11-repo
+```
+Install XFCE and VNC Server
+```bash
+pkg install xfce4 tigervnc
+```
+Configure VNC server
+set the password and port
+```bash
+vncserver
+```
+Use nano to modify xstartup to make xfce started on the first run
+```bash
+nano ~/.vnc/startup
+```
+then do this
+```bash
+
+```
+
 
 
