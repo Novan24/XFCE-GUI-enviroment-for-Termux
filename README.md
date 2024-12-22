@@ -19,7 +19,7 @@ Or to make it easier to use the Termux application so that it is more efficient
 
 # Installation
 
-<p>First you need to Download and install <a href="https:https://play.google.com/store/apps/details?id=com.termux">Termux</a> And <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC Viewer</a> </p>
+<p>First you need to Download and install <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a> And <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC Viewer</a> </p>
 
 
 
