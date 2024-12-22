@@ -56,9 +56,10 @@ vncserver :1
 ```
 
 7. Open RVNC server app > click + > Enter Address  localhost:5901, Name > Create > Enter password > and you will come out with this :
+[![IMG-20241222-213824.jpg](https://i.postimg.cc/h4pf44ns/IMG-20241222-213824.jpg)](https://postimg.cc/kDRnfmBR)
 
 
-and don't forget to turn off the server just like you turn off your pc
+and don't forget to turn off the server after using it
 ```bash
 vncserver -kill :1
 ```
