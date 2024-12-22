@@ -55,7 +55,9 @@ then CTRL+X > Y > Enter
 vncserver :1
 ```
 
-7. Open RVNC server app > click + Enter localhost:5907 > 
+7. Open RVNC server app > click + > Enter Address  localhost:5901, Name > Create > Enter password > and you will come out with this :
+
+
 and don't forget to turn off the server just like you turn off your pc
 ```bash
 vncserver -kill :1
