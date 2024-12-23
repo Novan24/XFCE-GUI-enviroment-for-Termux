@@ -37,7 +37,8 @@ pkg install x11-repo
 pkg install xfce4 tigervnc
 ```
 3. Configure VNC server
-set the password, and follow the instruction
+set the 6 digits password
+don't worry the password is typed even if you can't see it
 ```bash
 vncserver
 ```
@@ -50,7 +51,7 @@ nano ~/.vnc/xstartup
 xrdb $HOME/.Xresources
 startxfce4 &
 ```
-[![Example](https://i.postimg.cc/BnK1YWF0/IMG-20241222-194444.jpg)](https://postimg.cc/nXnzrPTR)
+[![Example.png](https://i.postimg.cc/2jgKMH7r/IMG-20241223-102655.jpg)](https://postimg.cc/Hj4z79Nh)
 then CTRL+X > Y > Enter
 <br>
 6. Start your vncserver, default is 1
