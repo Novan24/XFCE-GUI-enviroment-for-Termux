@@ -73,9 +73,14 @@ vncserver -kill :1
  that working on your device,
  you can find it on the internet
  ```
-3. the screen shows black when the first time it run in VNC
+2. the screen shows black when the first time i run the VNC
 ```
 Make sure you type the bash code
 in the right place like i shown
 in the image on step 5.
 ```
+
+3. download inkscape after all the tutorial were done.
+   ```
+   pkg install inkscape
+   ```
