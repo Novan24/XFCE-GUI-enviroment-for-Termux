@@ -25,7 +25,8 @@ Or to make it easier to use the Termux application so that it is more efficient
 
 And then copy and paste this command on termux one by one, also while following the instruction on screen, usually type "Y" then Enter, while upgrading or installing  :
 <br>
-1. 
+1. to update and upgrade package repository
+   and access to x11-repo
 ```bash
 pkg update && pkg upgrade
 pkg install x11-repo
