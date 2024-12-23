@@ -43,7 +43,7 @@ vncserver
 ```
 4. Use nano to modify xstartup to make xfce started on the first run
 ```bash
-nano ~/.vnc/startup
+nano ~/.vnc/xstartup
 ```
 5. then copy, paste like in the image below:
 ```bash
