@@ -1,7 +1,7 @@
 # XFCE Enviroment at Termux
 Give your termux enviroment GUI
 
-[![Donasi di Trakteer](https://img.shields.io/badge/contact-green?style=flat)](085735101561)
+[![contact](https://img.shields.io/badge/contact-green?style=flat)](085735101561)
 
 ![Platform](https://img.shields.io/badge/Platform-Termux-blue?style=flat)
 [![Donasi di Trakteer](https://img.shields.io/badge/$-Donate-red?style=flat)](https://trakteer.id/novan245)
@@ -87,3 +87,10 @@ in the image on step 5.
    ```
    pkg install inkscape
    ```
+
+## End.
+that's it to help you be able to give your termux GUI 🎉
+I Hope this helps, if you have any issues please <a href="">Contact me</a> via whatsapp or
+my email : graphdesigner25@gmail.com
+
+Buy me a <a href="https://trakteer.id/novan245">Cendol</a> 
