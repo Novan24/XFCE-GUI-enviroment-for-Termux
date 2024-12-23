@@ -10,13 +10,13 @@ Give your termux enviroment GUI
 This tutorial helps you to gain access to Linux/Termux applications that require a desktop environment (GUI) to function.
 Or to make it easier to use the Termux application so that it is more efficient
 
-## advantages
-* Access to GUI applications
-* efficient configuration
+## Who is it for?
+* to run spesific, but compatible apps that require GUI enviroments
+* maybe you come here to run inkscape on mobile device
 
-## Disadvantages
+## Note
 * Not all software can be installed since it's termux
-* Minium ram 3GB
+* Performance and compatibilty really depends on device or termux version is used
 <br>
 
 # Installation
