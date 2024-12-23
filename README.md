@@ -90,8 +90,13 @@ in the image on step 5.
 
 ## End.
 that's it to help you be able to give your termux GUI 🎉
-I Hope this helps, if you have any issues please <a href="">Contact me</a> via whatsapp or
-<br>
-my email : graphdesigner25@gmail.com
 
-Buy me a [![Donasi di Trakteer](https://img.shields.io/badge/Cendol-red?style=flat)](https://trakteer.id/novan245)
+<br>
+
+If you have any issues please <a href="">Contact me</a> via whatsapp or
+<br>
+My email : graphdesigner25@gmail.com
+
+<br>
+
+[![Donasi di Trakteer](https://img.shields.io/badge/Buy_me_a-Cendol-red?style=for-the-badge)](https://trakteer.id/novan245)
