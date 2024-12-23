@@ -37,11 +37,13 @@ pkg install x11-repo
 pkg install xfce4 tigervnc
 ```
 3. Configure VNC server
-set the 6 digits password
-don't worry the password is typed even if you can't see it
+set the 6 digits password,
+don't worry, the password is typed even if you can't see it
 ```bash
 vncserver
 ```
+[![vncserver.jpg](https://i.postimg.cc/59XrPcvs/IMG-20241223-102553.jpg)](https://postimg.cc/Yjw89sdF)
+
 4. Use nano to modify xstartup to make xfce started on the first run
 ```bash
 nano ~/.vnc/xstartup
@@ -67,7 +69,7 @@ vncserver :1
 vncserver -kill :1
 ```
 
-##FAQ 
+## #FAQ 
 1. There is error while doing `pkg update && pkg upgrade`
  ```
  Make sure to download termux version
