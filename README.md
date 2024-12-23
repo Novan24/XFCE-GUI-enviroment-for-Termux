@@ -23,7 +23,7 @@ Or to make it easier to use the Termux application so that it is more efficient
 
 <p>First you need to Download and install <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a> And <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC Viewer</a> </p>
 
-And then copy and paste this command on termux one by one, also while following the instruction on screen, usually klick "Y" while upgrading or installing  :
+And then copy and paste this command on termux one by one, also while following the instruction on screen, usually type "Y" then Enter, while upgrading or installing  :
 <br>
 1. 
 ```bash
